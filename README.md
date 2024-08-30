@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I’m a dedicated software engineer at Shopify, sp
 
 **Highlights:**
 - **🎓 Education:** 
-  - Master of Management in Data Analytics from University Of Windsor 
-  - B.Tech in Computer Science from Galgotias University
+  - Master of Management in Data Analytics from University Of Windsor, Canada 
+  - B.Tech in Computer Science from Galgotias University, India
 - **🏆 Achievements:**
   - Spot Award For Exceptional Performance at Infogain, India
   - Solved over 450 questions on Leetcode
