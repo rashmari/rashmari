@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Rashmi Kumari
 
-Welcome to my GitHub profile! I’m a dedicated software engineer Intern at Shopify, specializing in backend development. My background spans software engineering, full-stack development and QA consulting.
+Welcome to my GitHub profile! I’m an enthusiastic software engineering intern at Shopify, focusing on backend development. My experience includes software engineering, full-stack development, and QA consulting.
 
 **Highlights:**
 - **🎓 Education:** 
