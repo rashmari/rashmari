@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Rashmi Kumari
 
-Welcome to my GitHub profile! I am a passionate software engineer currently working at Shopify, specializing in backend development. I have a rich background in software engineering, DevOps, and full-stack development.
+Welcome to my GitHub profile! I’m a dedicated software engineer at Shopify, specializing in backend development. My background spans software engineering, full-stack development and QA consulting.
 
 **Highlights:**
 - **🎓 Education:** 
