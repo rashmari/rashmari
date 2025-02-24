@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I’m an enthusiastic software engineering intern 
 - **Frontend Development:** HTML/CSS, JavaScript, Bootstrap
 
 **Experience:**
-- **Software Developer Intern** at Shopify Inc.
+- **Software Developer** at Shopify Inc.
 - **Software Engineer** at Infogain India Pvt. Ltd, Noida
 - **Software Engineer Trainee** at Infogain India Pvt. Ltd, Noida
 
